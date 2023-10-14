@@ -29,6 +29,7 @@ function newTransaction() {
     newdate.value = "";
     newdescription.value = "";
     newmontant.value = "";
+    meri
   }
 }
 </script>
